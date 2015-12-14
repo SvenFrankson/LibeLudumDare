@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 3d770f6319827b645b51071bd277943f
+timeCreated: 1450007968
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Button1
+    100002: Button2
+    100004: Button3
+    100006: Flower1
+    100008: Flower2
+    100010: Flower3
+    100012: Flower4
+    100014: Flower5
+    100016: //RootNode
+    100018: Plant1
+    100020: Plant2
+    400000: Button1
+    400002: Button2
+    400004: Button3
+    400006: Flower1
+    400008: Flower2
+    400010: Flower3
+    400012: Flower4
+    400014: Flower5
+    400016: //RootNode
+    400018: Plant1
+    400020: Plant2
+    2300000: Button1
+    2300002: Button2
+    2300004: Button3
+    2300006: Flower1
+    2300008: Flower2
+    2300010: Flower3
+    2300012: Flower4
+    2300014: Flower5
+    2300016: Plant1
+    2300018: Plant2
+    3300000: Button1
+    3300002: Button2
+    3300004: Button3
+    3300006: Flower1
+    3300008: Flower2
+    3300010: Flower3
+    3300012: Flower4
+    3300014: Flower5
+    3300016: Plant1
+    3300018: Plant2
+    4300000: Button3
+    4300002: Button2
+    4300004: Button1
+    4300006: Plant2
+    4300008: Plant1
+    4300010: Flower5
+    4300012: Flower4
+    4300014: Flower3
+    4300016: Flower2
+    4300018: Flower1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
